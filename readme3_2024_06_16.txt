@@ -1,0 +1,64 @@
+
+
+Readme3_2024_06_16_3
+
+
+Please note if you
+download all the files,
+the javascript files
+
+vects2_demo1_5.js
+
+and
+
+vects1_5_beta3.js
+
+have to do in a subdirectory/folder
+called 
+
+dev
+
+(
+or you can edit the
+javascript inlcude
+statements in
+the main .html file.
+)
+
+
+I'll put up instructions
+how to get these files
+to work soon.
+
+They are mainly going up
+in a hurry to protect
+my copyright etc.
+
+see my website
+www.pouncy.co.uk
+for a possibly more
+user friedly
+demo.
+(Time of writing
+16/6/24)
+
+The files need tidied up
+enormoously but the code
+does work..
+
+Ian Pouncy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
